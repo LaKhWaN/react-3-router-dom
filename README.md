@@ -8,15 +8,21 @@ Ensure you have [Node.js](https://nodejs.org/) installed before proceeding.
 
 1. Clone the repository:
 
+   ```bash
    git clone https://github.com/your-username/react-3-router-dom.git
+   ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
+   ```bash
    cd react-3-router-dom
+   ```
 
-3. Install the dependencies:
+5. Install the dependencies:
 
+   ```bash
    npm install
+   ```
 
 ## Usage
 
